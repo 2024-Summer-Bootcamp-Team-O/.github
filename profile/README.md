@@ -11,7 +11,7 @@
 # 🌈 DEMO
 |**Sign up and Login**|**Main Page**|
 |:-------------------:|:---------:|
-|<img width="390" alt="Sign up and Login" src="">|<img width="390" alt="Main" src="https://github.com/user-attachments/assets/234dfe85-5596-4379-b2b9-196e625c38b8">|
+|<img width="390" alt="Sign up and Login" src="">|<img width="390" alt="Main" src="https://github.com/user-attachments/assets/dc017ccf-519e-4673-b59d-169fa312b3bf">|
 |**Assigning Random Character**|**Chat Room**|
 |<img width="390" alt="Conversation" src="">|<img width="390" alt="Photo Capture" src="">|
 |**Feedback**|**Loading Results**|
