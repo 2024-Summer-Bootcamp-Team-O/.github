@@ -13,9 +13,9 @@
 |:-------------------:|:---------:|
 |<img width="390" alt="Sign up and Login" src="https://github.com/user-attachments/assets/cb2ec380-9f94-4822-9ea5-01c48ea94ccd">|<img width="390" alt="Main" src="https://github.com/user-attachments/assets/4619f549-39c7-407f-83aa-246e8b67d3d3">|
 |**Assigning Random Character**|**Chat Room**|
-|<img width="390" alt="Conversation" src="https://github.com/user-attachments/assets/429b4614-e329-4bb0-8e7d-dc18004c9128">|<img width="390" alt="Photo Capture" src="">|
+|<img width="390" alt="Conversation" src="https://github.com/user-attachments/assets/429b4614-e329-4bb0-8e7d-dc18004c9128">|<img width="390" alt="Photo Capture" src="https://github.com/user-attachments/assets/36de702a-2489-4008-9fc3-11d29821c19c">|
 |**Feedback**|**Loading Next Episode**|
-|<img width="390" alt="Diary" src="">|<img width="390" alt="View Past" src="https://github.com/user-attachments/assets/0ef9022c-0c5a-4190-a684-6b954e56b2c5">|
+|<img width="390" alt="Diary" src="https://github.com/user-attachments/assets/ac023f72-9f76-47ad-855f-e049a3f338d2">|<img width="390" alt="View Past" src="https://github.com/user-attachments/assets/0ef9022c-0c5a-4190-a684-6b954e56b2c5">|
 |**Loading Results**|**Taking Employee ID Card Photo**|
 |<img width="390" alt="Diary" src="">|<img width="390" alt="View Past" src="">|
 |**Result Page**|**My page**|
