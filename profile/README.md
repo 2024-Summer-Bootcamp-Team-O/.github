@@ -119,7 +119,7 @@
 # 📍 How to Start
 ### 1. Clone Repository
 ```bash
-$ git clone https://github.com/2023-Winter-Bootcamp-Team-K/talk-taka.git
+$ git clone 
 ```
 ### 2. Backend 환경변수 및 my_settings.py 설정
 
@@ -178,9 +178,9 @@ DATABASES = {
 
 ### 3. docker-compose 실행
 
-#### talk-taka/
+#### rumz/
 ```bash
-$ docker-compose -f docker-compose.deploy.yml up --build -d
+$ docker-compose
 ```
 
 # 🔍 Detailed Info
