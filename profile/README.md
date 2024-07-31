@@ -17,12 +17,12 @@
 |**Feedback**|**Loading Next Episode**|
 |<img width="390" alt="Diary" src="https://github.com/user-attachments/assets/ac023f72-9f76-47ad-855f-e049a3f338d2">|<img width="390" alt="View Past" src="https://github.com/user-attachments/assets/0ef9022c-0c5a-4190-a684-6b954e56b2c5">|
 |**Loading Results**|**Taking Employee ID Card Photo**|
-|<img width="390" alt="Diary" src="">|<img width="390" alt="View Past" src="">|
+|<img width="390" alt="Diary" src="https://github.com/user-attachments/assets/d560b907-a278-49c3-9f41-265b93bbe031">|<img width="390" alt="View Past" src="">|
 |**Result Page**|**My page**|
 |<img width="390" alt="Diary" src="">|<img width="390" alt="View Past" src="https://github.com/user-attachments/assets/fa3fb9ef-bdc6-461d-881f-fc811acda25d">|
 
 # ⚙ System Architecture
-![시스템아키텍처](https://github.com/user-attachments/assets/f82fdbfc-0a7f-489c-b2da-5b02d5bec957)
+![시스템아키텍처_최종](https://github.com/user-attachments/assets/f856b04f-4988-40c7-b432-60c59625060b)
 
 
 # 🛠 Tech Stack
@@ -259,7 +259,7 @@ $ docker-compose
 </tr>
 <tr>
   <th>Grafana</th>
-  <td>수집한 Metric 정보를 시각화하여 대시보드를 구성하며 모니터링 중 성능 이슈 발생 시 실시간으로 슬랙에 경고 알람을 전달합니다.</td>
+  <td>수집한 Metric 정보를 시각화하여 대시보드를 구성하며 모니터링을 수행합니다.</td>
 </tr>
 <tr>
   <th>ElevenLabs API</th>
