@@ -19,7 +19,7 @@
 |**Loading Results**|**Taking Employee ID Card Photo**|
 |<img width="390" alt="Diary" src="">|<img width="390" alt="View Past" src="">|
 |**Result Page**|**My page**|
-|<img width="390" alt="Diary" src="https://github.com/user-attachments/assets/ebc2160f-26c5-4ace-aab3-dbae7df00e6a">|<img width="390" alt="View Past" src="https://github.com/user-attachments/assets/fa3fb9ef-bdc6-461d-881f-fc811acda25d">|
+|<img width="390" alt="Diary" src="">|<img width="390" alt="View Past" src="https://github.com/user-attachments/assets/fa3fb9ef-bdc6-461d-881f-fc811acda25d">|
 
 # ⚙ System Architecture
 ![시스템아키텍처](https://github.com/user-attachments/assets/f82fdbfc-0a7f-489c-b2da-5b02d5bec957)
