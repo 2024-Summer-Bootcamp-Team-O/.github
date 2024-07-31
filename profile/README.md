@@ -1,6 +1,7 @@
 # 🧸 R.U, MZ?
 #### " MZ세대를 개선 시키기 위한 대화형 사회생활 시뮬레이션"으로 다양한 캐릭터와 상황에 대해 시뮬레이션을 진행하며 피드백을 제공하는 서비스
-![시작페이지_2](https://github.com/user-attachments/assets/c823caba-dbf8-45b9-88a8-b3096b530a1e)
+![시작페이지_2](https://github.com/user-attachments/assets/8b73f777-320b-496a-a0a7-7241258546e4)
+
 
 # 🔗Medium
 [✅ Click me!](https://medium.com/@dudxor4587/re-forming-u-mz-%EC%83%9D%EC%84%B1%ED%98%95-ai%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%82%AC%ED%9A%8C%EC%83%9D%ED%99%9C-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98-9716b3930417)<br>
@@ -10,7 +11,7 @@
 # 🌈 DEMO
 |**Sign up and Login**|**Main Page**|
 |:-------------------:|:---------:|
-|<img width="390" alt="Sign up and Login" src="">|<img width="390" alt="Main" src="https://github.com/user-attachments/assets/9928efb0-b129-4f75-bf4a-80d4fa870b7f">|
+|<img width="390" alt="Sign up and Login" src="">|<img width="390" alt="Main" src="https://github.com/user-attachments/assets/234dfe85-5596-4379-b2b9-196e625c38b8">|
 |**Assigning Random Character**|**Chat Room**|
 |<img width="390" alt="Conversation" src="">|<img width="390" alt="Photo Capture" src="">|
 |**Feedback**|**Loading Results**|
@@ -19,7 +20,8 @@
 |<img width="390" alt="Diary" src="">|<img width="390" alt="View Past" src="">|
 
 # ⚙ System Architecture
-![시스템아키텍처](https://github.com/user-attachments/assets/614b97ca-eadc-46e1-ac64-15f2e34a86ce)
+![시스템아키텍처](https://github.com/user-attachments/assets/f82fdbfc-0a7f-489c-b2da-5b02d5bec957)
+
 
 # 🛠 Tech Stack
 <p align="center">
@@ -82,9 +84,11 @@
 </p>
 
 # 📂 ERD
-![ERD](https://github.com/user-attachments/assets/80b52e1e-9bd2-4e1a-8afc-e8f8f7e9ab79)
+![ERD](https://github.com/user-attachments/assets/32ed8ca1-b1f1-486a-a83d-02079cfb2725)
+
 # ✏️ API
-<img width="1089" alt="스크린샷 2024-07-31 오전 1 59 41" src="https://github.com/user-attachments/assets/ddce9006-3965-4dea-92cd-e817a2b0ea9e">
+<img width="1089" alt="API_swagger" src="https://github.com/user-attachments/assets/e17bc53f-00f5-4165-9007-2608253b6294">
+
 
 
 
@@ -94,7 +98,7 @@
     <td colspan="2" align="center"><b>Django</b></td>
   </tr>
   <tr>
-    <td align="center"><img src = "https://github.com/user-attachments/assets/29baa8a9-082f-477f-8858-2c94612a0405" width=100%><img src = "https://github.com/user-attachments/assets/cbf61d25-4737-4a75-b12b-2bfb71c35d97" width=100% ></td>
+    <td align="center"><img src = "https://github.com/user-attachments/assets/81437033-957b-4950-b2c7-6a5824a95b5a" width=100%><img src = "https://github.com/user-attachments/assets/b7a69b12-da37-43c8-8284-44f377adf77d" width=100% ></td>
   </tr>
 </table>
 <table>
@@ -102,7 +106,7 @@
     <td colspan="2" align="center"><b>Node exporter</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/7113d400-55d8-407f-8f0c-7ee163bbe770" width="100%" height="100%"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/c9d7f140-9d82-491e-b44a-fffebb96aa1e" width="100%" height="100%"></td>
   </tr>
 </table>
 <table>
@@ -110,7 +114,7 @@
     <td colspan="2" align="center"><b>cAdvisor</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/2d2cc0f3-4536-4493-a885-e414316cf62a" width="100%" height="100%"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/79cbdfd6-86b4-49d5-a436-ab5aeecb28d4" width="100%" height="100%"></td>
   </tr>
 </table>
 
@@ -288,27 +292,27 @@ $ docker-compose
 <th>Profile</th>
 <td width="100" align="center">
 <a href="https://github.com/suyeonnii">
-<img src="https://github.com/user-attachments/assets/b0c891d0-a4c2-41cf-ba61-d769ab6ef7a0" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/924bb228-de2c-41fc-86ae-be30960e67b4" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/dannyk20">
-<img src="https://github.com/user-attachments/assets/67bca787-375f-428e-a817-073569bcceb2" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/1822c898-9c90-4792-9177-4c59cfdae058" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/dudxor4587">
-<img src="https://github.com/user-attachments/assets/9b3abb6b-2a94-4401-a537-00a4dadb5141" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/1f8c5464-ff12-447f-9c48-ea6cc8bbbf31" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/SRASONY">
-<img src="https://github.com/user-attachments/assets/20155648-8b67-4d7f-82fc-7ecab6f2db32" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/54072bb0-a96f-4d99-bd82-0006bb855f9b" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/kimgs1107">
-<img src="https://github.com/user-attachments/assets/0bdcd748-34bc-4d52-bbad-6d8a5d0f9a9e" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/a7e86904-7b36-44bb-8829-fc6894314f1b" width="60" height="60">
 </a>
 </td>
 </tr>
