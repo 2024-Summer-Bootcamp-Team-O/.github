@@ -309,7 +309,7 @@ $ docker-compose
 </td>
 <td width="100" align="center">
 <a href="https://github.com/SRASONY">
-<img src="https://github.com/user-attachments/assets/54072bb0-a96f-4d99-bd82-0006bb855f9b" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/3177c478-51e6-49d8-bbaf-eba0881880af" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
