@@ -9,17 +9,71 @@
 
 
 # 🌈 DEMO
-|**Sign up and Login**|**Main Page**|
-|:-------------------:|:---------:|
-|<img width="390" alt="Sign up and Login" src="https://github.com/user-attachments/assets/cb2ec380-9f94-4822-9ea5-01c48ea94ccd">|<img width="390" alt="Main" src="https://github.com/user-attachments/assets/4619f549-39c7-407f-83aa-246e8b67d3d3">|
-|**Assigning Random Character**|**Chat Room**|
-|<img width="390" alt="Conversation" src="https://github.com/user-attachments/assets/429b4614-e329-4bb0-8e7d-dc18004c9128">|<img width="390" alt="Photo Capture" src="https://github.com/user-attachments/assets/36de702a-2489-4008-9fc3-11d29821c19c">|
-|**Feedback**|**Loading Next Episode**|
-|<img width="390" alt="Diary" src="https://github.com/user-attachments/assets/ac023f72-9f76-47ad-855f-e049a3f338d2">|<img width="390" alt="View Past" src="https://github.com/user-attachments/assets/0ef9022c-0c5a-4190-a684-6b954e56b2c5">|
-|**Taking Employee ID Card Photo**|**Loading Results**|
-|<img width="390" alt="View Past" src="https://github.com/user-attachments/assets/85707da4-0ed5-408c-97ca-96c7f2efa358">|<img width="390" alt="Diary" src="https://github.com/user-attachments/assets/d560b907-a278-49c3-9f41-265b93bbe031">|
-|**Result Page**|**My page**|
-|<img width="390" alt="Diary" src="https://github.com/user-attachments/assets/27440151-a66d-4237-960e-886083f2dc7a">|<img width="390" alt="View Past" src="https://github.com/user-attachments/assets/fa3fb9ef-bdc6-461d-881f-fc811acda25d">|
+## Start
+> 시작하기 버튼을 누르면 R.U, MZ? 서비스를 이용할 수 있습니다.
+<img align="center" width="1000" alt="Start" src="https://github.com/user-attachments/assets/aa24b6c2-8876-42a8-b971-990c6e7b5113">
+
+
+
+## Sign up and Login
+> 회원가입후 로그인하여 접속할 수 있습니다.
+<img align="center" width="1000" alt="Sign up and Login" src="https://github.com/user-attachments/assets/40793454-a6fd-4b91-8d2a-aeaccad2697f">
+
+
+
+## Main Page
+> 캐릭터들의 정보를 확인하고 시뮬레이션을 시작할 수 있습니다.
+<img align="center" width="1000" alt="Main Page" src="https://github.com/user-attachments/assets/4619f549-39c7-407f-83aa-246e8b67d3d3">
+
+
+
+## Assigning Random Character
+> 대화를 나눌 직장 상사 캐릭터가 랜덤 배정됩니다.
+<img align="center" width="1000" alt="Assigning Random Character" src="https://github.com/user-attachments/assets/429b4614-e329-4bb0-8e7d-dc18004c9128">
+
+
+
+## Chat Room
+> 대화창에서 캐릭터와 다양한 근무 상황에서의 대화를 나눕니다.
+<img align="center" width="1000" alt="Chat Room" src="https://github.com/user-attachments/assets/36de702a-2489-4008-9fc3-11d29821c19c">
+
+
+
+## Feedback
+> 캐릭터와 나눈 대화를 기반으로 더 나은 직장인이 되기 위한 피드백을 받습니다.
+<img align="center" width="1000" alt="Feedback" src="https://github.com/user-attachments/assets/ac023f72-9f76-47ad-855f-e049a3f338d2">
+
+
+
+## Loading Next Episode
+> 각 시간대별 상황이 끝나고 다음 시간대의 다른 상황으로 넘어갑니다.
+<img align="center" width="1000" alt="Loading Next Episode" src="https://github.com/user-attachments/assets/0ef9022c-0c5a-4190-a684-6b954e56b2c5">
+
+
+
+## Taking Employee ID Card Photo
+> 시뮬레이션의 기록을 남길 수 있도록 사원증 사진을 촬영합니다.
+<img align="center" width="1000" alt="Taking Employee ID Card Photo" src="https://github.com/user-attachments/assets/85707da4-0ed5-408c-97ca-96c7f2efa358">
+
+
+
+## Loading Result
+> 시뮬레이션이 다 끝난 후 전체 결과에 대한 피드백을 받기 위한 로딩창입니다.
+<img align="center" width="1000" alt="Loading Result" src="https://github.com/user-attachments/assets/d560b907-a278-49c3-9f41-265b93bbe031">
+
+
+
+## Result Page
+> 결과창에서 시뮬레이션 전체에 관한 종합적인 피드백을 조회할 수 있으며, 결과를 저장하고 카카오톡으로 공유할 수 있습니다.
+<img align="center" width="1000" alt="Result Page" src="https://github.com/user-attachments/assets/27440151-a66d-4237-960e-886083f2dc7a">
+
+
+
+## My page
+> 이때까지 진행해본 시뮬레이션 결과가 기록으로 남아 조회할 수 있으며, 추가로 시뮬레이션을 진행할 수 있습니다.
+<img align="center" width="1000" alt="My page" src="https://github.com/user-attachments/assets/fa3fb9ef-bdc6-461d-881f-fc811acda25d">
+
+
 
 # ⚙ System Architecture
 ![시스템아키텍처_최종](https://github.com/user-attachments/assets/f856b04f-4988-40c7-b432-60c59625060b)
