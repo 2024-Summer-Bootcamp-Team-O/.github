@@ -16,10 +16,10 @@
 |<img width="390" alt="Conversation" src="https://github.com/user-attachments/assets/429b4614-e329-4bb0-8e7d-dc18004c9128">|<img width="390" alt="Photo Capture" src="https://github.com/user-attachments/assets/36de702a-2489-4008-9fc3-11d29821c19c">|
 |**Feedback**|**Loading Next Episode**|
 |<img width="390" alt="Diary" src="https://github.com/user-attachments/assets/ac023f72-9f76-47ad-855f-e049a3f338d2">|<img width="390" alt="View Past" src="https://github.com/user-attachments/assets/0ef9022c-0c5a-4190-a684-6b954e56b2c5">|
-|**Loading Results**|**Taking Employee ID Card Photo**|
-|<img width="390" alt="Diary" src="https://github.com/user-attachments/assets/d560b907-a278-49c3-9f41-265b93bbe031">|<img width="390" alt="View Past" src="">|
+|**Taking Employee ID Card Photo**|**Loading Results**|
+|<img width="390" alt="View Past" src="https://github.com/user-attachments/assets/85707da4-0ed5-408c-97ca-96c7f2efa358">|<img width="390" alt="Diary" src="https://github.com/user-attachments/assets/d560b907-a278-49c3-9f41-265b93bbe031">|
 |**Result Page**|**My page**|
-|<img width="390" alt="Diary" src="">|<img width="390" alt="View Past" src="https://github.com/user-attachments/assets/fa3fb9ef-bdc6-461d-881f-fc811acda25d">|
+|<img width="390" alt="Diary" src="https://github.com/user-attachments/assets/27440151-a66d-4237-960e-886083f2dc7a">|<img width="390" alt="View Past" src="https://github.com/user-attachments/assets/fa3fb9ef-bdc6-461d-881f-fc811acda25d">|
 
 # ⚙ System Architecture
 ![시스템아키텍처_최종](https://github.com/user-attachments/assets/f856b04f-4988-40c7-b432-60c59625060b)
