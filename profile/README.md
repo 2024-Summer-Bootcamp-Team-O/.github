@@ -10,25 +10,25 @@
 
 
 # 🌈 DEMO
-|**Start**|**Sign up and Login**|
+|**Start**|**Sign up**|
 |:-------------------:|:-------------------:|
-|시작하기 버튼을 누르면 R.U, MZ? 서비스를 이용할 수 있습니다.|회원가입후 로그인하여 접속할 수 있습니다.|
-|<img width="500" alt="Start" src="https://github.com/user-attachments/assets/aa24b6c2-8876-42a8-b971-990c6e7b5113">|<img width="500" alt="Sign up and Login" src="https://github.com/user-attachments/assets/40793454-a6fd-4b91-8d2a-aeaccad2697f">|
-|**Main Page**|**Assigning Random Character**|
-|캐릭터들의 정보를 확인하고 시뮬레이션을 시작할 수 있습니다.|대화를 나눌 직장 상사 캐릭터가 랜덤 배정됩니다.|
-|<img width="500" alt="Main Page" src="https://github.com/user-attachments/assets/4619f549-39c7-407f-83aa-246e8b67d3d3">|<img width="500" alt="Assigning Random Character" src="https://github.com/user-attachments/assets/429b4614-e329-4bb0-8e7d-dc18004c9128">|
-|**Chat Room**|**Feedback**|
-|대화창에서 캐릭터와 다양한 근무 상황에서의 대화를 나눕니다.|캐릭터와 나눈 대화를 기반으로 개선점을 포함한 피드백을 받습니다.|
-|<img width="500" alt="Chat Room" src="https://github.com/user-attachments/assets/36de702a-2489-4008-9fc3-11d29821c19c">|<img width="500" alt="Feedback" src="https://github.com/user-attachments/assets/ac023f72-9f76-47ad-855f-e049a3f338d2">|
-|**Loading Next Episode**|**Taking Employee ID Card Photo**|
-|각 시간대별 상황이 끝나고 다음 시간대의 다른 상황으로 넘어갑니다.|시뮬레이션의 기록을 남길 수 있도록 사원증 사진을 촬영합니다.|
-|<img width="500" alt="Loading Next Episode" src="https://github.com/user-attachments/assets/0ef9022c-0c5a-4190-a684-6b954e56b2c5">|<img width="500" alt="Taking Employee ID Card Photo" src="https://github.com/user-attachments/assets/85707da4-0ed5-408c-97ca-96c7f2efa358">|
-|**Loading Result**|**Result Page**|
-|시뮬레이션이 다 끝난 후 전체 결과에 대한 피드백을 받기 위한 로딩창입니다.|결과창에서 시뮬레이션 전체에 관한 종합적인 피드백을 조회할 수 있으며, 결과를 저장하고 카카오톡으로 공유할 수 있습니다.|
-|<img width="500" alt="Loading Result" src="https://github.com/user-attachments/assets/d560b907-a278-49c3-9f41-265b93bbe031">|<img width="500" alt="Result Page" src="https://github.com/user-attachments/assets/27440151-a66d-4237-960e-886083f2dc7a">|
-|**My Page**|
-|이때까지 진행해본 시뮬레이션 결과가 기록으로 남아 조회할 수 있으며, 추가로 시뮬레이션을 진행할 수 있습니다.|
-|<img width="500" alt="My Page" src="https://github.com/user-attachments/assets/fa3fb9ef-bdc6-461d-881f-fc811acda25d">|
+|시작하기 버튼을 누르면 R.U, MZ? 서비스를 이용할 수 있습니다.|회원가입을 진행합니다.|
+|<img width="500" alt="Start" src="https://github.com/user-attachments/assets/aa24b6c2-8876-42a8-b971-990c6e7b5113">|<img width="500" alt="Sign up" src="https://github.com/user-attachments/assets/a0bb2dab-765a-4afc-aacc-4554ed74e0a4">|
+|**Login**|**Main Page**|
+|회원가입이 완료되면 로그인하여 접속할 수 있습니다.|캐릭터들의 정보를 확인하고 시뮬레이션을 시작할 수 있습니다.|
+|<img width="500" alt="Login" src="https://github.com/user-attachments/assets/2399e79e-c48a-465e-852e-a688569bb4a5">|<img width="500" alt="Main Page" src="https://github.com/user-attachments/assets/4619f549-39c7-407f-83aa-246e8b67d3d3">|
+|**Assigning Random Character**|**Chat Room**|
+|대화를 나눌 직장 상사 캐릭터가 랜덤 배정됩니다.|대화창에서 캐릭터와 다양한 근무 상황에서의 대화를 나눕니다.|
+|<img width="500" alt="Assigning Random Character" src="https://github.com/user-attachments/assets/429b4614-e329-4bb0-8e7d-dc18004c9128">|<img width="500" alt="Chat Room" src="https://github.com/user-attachments/assets/f748ebce-4e7e-4e05-96a5-b3e5ad48b104">|
+|**Feedback**|**Loading Next Episode**|
+|캐릭터와 나눈 대화를 기반으로 개선점을 포함한 피드백을 받습니다.|각 시간대별 상황이 끝나고 다음 시간대의 다른 상황으로 넘어갑니다.|
+|<img width="500" alt="Feedback" src="https://github.com/user-attachments/assets/a579d3ed-581c-4dee-a310-9b23dc855d4d">|<img width="500" alt="Loading Next Episode" src="https://github.com/user-attachments/assets/0ef9022c-0c5a-4190-a684-6b954e56b2c5">|
+|**Taking Employee ID Card Photo**|**Loading Result**|
+|시뮬레이션의 기록을 남길 수 있도록 사원증 사진을 촬영합니다.|시뮬레이션이 다 끝난 후 전체 결과에 대한 피드백을 받기 위한 로딩창입니다.|
+|<img width="500" alt="Taking Employee ID Card Photo" src="https://github.com/user-attachments/assets/85707da4-0ed5-408c-97ca-96c7f2efa358">|<img width="500" alt="Loading Result" src="https://github.com/user-attachments/assets/d560b907-a278-49c3-9f41-265b93bbe031">|
+|**Result Page**|**My Page**|
+|결과창에서 시뮬레이션 전체에 관한 종합적인 피드백을 조회할 수 있으며, 결과를 저장하고 카카오톡으로 공유할 수 있습니다.|이때까지 진행해본 시뮬레이션 결과가 기록으로 남아 조회할 수 있으며, 추가로 시뮬레이션을 진행할 수 있습니다.|
+|<img width="500" alt="Result Page" src="https://github.com/user-attachments/assets/781472ff-a769-4401-893f-5529a62b96ab">|<img width="500" alt="My Page" src="https://github.com/user-attachments/assets/fa3fb9ef-bdc6-461d-881f-fc811acda25d">|
 
 
 
