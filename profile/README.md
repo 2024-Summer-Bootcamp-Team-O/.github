@@ -3,12 +3,33 @@
 ![시작페이지_2](https://github.com/user-attachments/assets/8b73f777-320b-496a-a0a7-7241258546e4)
 
 
-# 🔗Medium
+
+# 🔗 Medium
 [✅ Click me!](https://medium.com/@dudxor4587/re-forming-u-mz-%EC%83%9D%EC%84%B1%ED%98%95-ai%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%82%AC%ED%9A%8C%EC%83%9D%ED%99%9C-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98-9716b3930417)<br>
 
 
 
 # 🌈 DEMO
+|**Start**|**Sign up and Login**|
+|:-------------------:|:-------------------:|
+|시작하기 버튼을 누르면 R.U, MZ? 서비스를 이용할 수 있습니다.|회원가입후 로그인하여 접속할 수 있습니다.|
+|<img width="500" alt="Start" src="https://github.com/user-attachments/assets/cb2ec380-9f94-4822-9ea5-01c48ea94ccd">|<img width="500" alt="Sign up and Login" src="https://github.com/user-attachments/assets/4619f549-39c7-407f-83aa-246e8b67d3d3">|
+|**Main Page**|**Assigning Random Character**|
+|캐릭터들의 정보를 확인하고 시뮬레이션을 시작할 수 있습니다.|대화를 나눌 직장 상사 캐릭터가 랜덤 배정됩니다.|
+|<img width="500" alt="Main Page" src="https://github.com/user-attachments/assets/429b4614-e329-4bb0-8e7d-dc18004c9128">|<img width="500" alt="Assigning Random Character" src="https://github.com/user-attachments/assets/36de702a-2489-4008-9fc3-11d29821c19c">|
+|**Chat Room**|**Feedback**|
+|대화창에서 캐릭터와 다양한 근무 상황에서의 대화를 나눕니다.|캐릭터와 나눈 대화를 기반으로 개선점을 포함한 피드백을 받습니다.|
+|<img width="500" alt="Chat Room" src="https://github.com/user-attachments/assets/ac023f72-9f76-47ad-855f-e049a3f338d2">|<img width="500" alt="Feedback" src="https://github.com/user-attachments/assets/0ef9022c-0c5a-4190-a684-6b954e56b2c5">|
+|**Loading Next Episode**|**Taking Employee ID Card Photo**|
+|각 시간대별 상황이 끝나고 다음 시간대의 다른 상황으로 넘어갑니다.|시뮬레이션의 기록을 남길 수 있도록 사원증 사진을 촬영합니다.|
+|<img width="500" alt="Loading Next Episode" src="https://github.com/user-attachments/assets/85707da4-0ed5-408c-97ca-96c7f2efa358">|<img width="500" alt="Taking Employee ID Card Photo" src="https://github.com/user-attachments/assets/d560b907-a278-49c3-9f41-265b93bbe031">|
+|**Loading Result**|**Result Page**|
+|시뮬레이션이 다 끝난 후 전체 결과에 대한 피드백을 받기 위한 로딩창입니다.|결과창에서 시뮬레이션 전체에 관한 종합적인 피드백을 조회할 수 있으며, 결과를 저장하고 카카오톡으로 공유할 수 있습니다.|
+|<img width="500" alt="Loading Result" src="https://github.com/user-attachments/assets/27440151-a66d-4237-960e-886083f2dc7a">|<img width="500" alt="Result Page" src="https://github.com/user-attachments/assets/fa3fb9ef-bdc6-461d-881f-fc811acda25d">|
+|**My Page**|
+|이때까지 진행해본 시뮬레이션 결과가 기록으로 남아 조회할 수 있으며, 추가로 시뮬레이션을 진행할 수 있습니다.|
+|<img width="500" alt="My Page" src="https://github.com/user-attachments/assets/27440151-a66d-4237-960e-886083f2dc7a">|
+
 ## Start
 > 시작하기 버튼을 누르면 R.U, MZ? 서비스를 이용할 수 있습니다.
 <img align="center" width="1000" alt="Start" src="https://github.com/user-attachments/assets/aa24b6c2-8876-42a8-b971-990c6e7b5113">
@@ -79,6 +100,7 @@
 ![시스템아키텍처_최종](https://github.com/user-attachments/assets/f856b04f-4988-40c7-b432-60c59625060b)
 
 
+
 # 🛠 Tech Stack
 <p align="center">
 <strong> Frontend <br></strong>
@@ -139,12 +161,15 @@
 <img src="https://img.shields.io/badge/pycharm-D9411E?style=for-the-badge&logo=pycharm&logoColor=white" alt="icon" />
 </p>
 
+
+
 # 📂 ERD
 ![ERD](https://github.com/user-attachments/assets/32ed8ca1-b1f1-486a-a83d-02079cfb2725)
 
+
+
 # ✏️ API
 <img width="1089" alt="API_swagger" src="https://github.com/user-attachments/assets/e17bc53f-00f5-4165-9007-2608253b6294">
-
 
 
 
@@ -261,8 +286,9 @@
 
 </br>
 
-# 👩‍❤️‍👨 Members
 
+
+# 👩‍❤️‍👨 Members
 <table width="1000">
 <thead>
 </thead>
