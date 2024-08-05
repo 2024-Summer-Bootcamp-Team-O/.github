@@ -1,5 +1,5 @@
 # 🧸 R.U , MZ?
-### <p align = center>🎉 2024 Techeer Summer BootCamp 3등 🎉</p>
+### <p align = center>🥳 2024 Techeer Summer BootCamp 3등 🥳 </p>
 #### "MZ를 위한 대화형 사회생활 시뮬레이션"으로 다양한 캐릭터와 상황에 대해 시뮬레이션을 진행하며 피드백을 제공하는 서비스
 ![시작페이지_2](https://github.com/user-attachments/assets/8b73f777-320b-496a-a0a7-7241258546e4)
 
